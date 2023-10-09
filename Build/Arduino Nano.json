@@ -1,0 +1,16 @@
+{
+"companyName": "GT-Tech",
+"productName": "Arduino Nono",
+"productVersion": "0.1",
+"dataUrl": "Arduino Nano.data.unityweb",
+"wasmCodeUrl": "Arduino Nano.wasm.code.unityweb",
+"wasmFrameworkUrl": "Arduino Nano.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
